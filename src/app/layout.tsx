@@ -13,8 +13,8 @@ const fontMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "amorim",
-  description: "amorim",
+  title: "Web Portfolio - Puspita",
+  description: "Web Portfolio - Puspita",
 };
 
 export default function RootLayout({
